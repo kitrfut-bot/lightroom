@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Lumina Darkroom",
+  "short_name": "Lumina",
+  "description": "Professional non-destructive RAW photo editor and catalog studio with GPU WebGL acceleration.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0e0f12",
+  "theme_color": "#121316",
+  "orientation": "any",
+  "categories": ["photo", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

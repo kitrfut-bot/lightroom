@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan for Lumina Darkroom, a Lightroom-style non-destructive RAW photo editing and catalog app built with a WebGL/Wasm acceleration pipeline, PWA desktop support, classic Library/Develop workflow, tone curves, 3-way color grading, local brush/gradient masks, before/after comparison, presets, and high-fidelity export.",
+  "updatedAt":  "2026-10-11T02:35:58.692278767Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Darkroom — Pro RAW & Photo Studio",
+  "description": "Lightroom-style non-destructive RAW photo editor and catalog with real-time WebGL hardware acceleration, tone curves, color grading, and local masking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
